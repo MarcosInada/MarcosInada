@@ -15,9 +15,9 @@
 ---
 
 ## 🎯 Projetos em andamento
-- Dashboard Financeiro  
+- Dashboard BLACKFRIDAY:  analise e perfil do cliente 
 - Dashboard de Vendas  
-- Dashboard de Logística  
+- Dashboard de Marketing 
 - Análises com dataset do Spotify (Kaggle)  
 - Dataset próprio de produção (em construção)
 
