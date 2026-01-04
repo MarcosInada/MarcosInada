@@ -1,44 +1,43 @@
-# 👋 Olá! Eu sou o Marcos Inada  
+👋 Olá! Eu sou o Marcos Inada  
 
-🎸 Um cara movido por curiosidade, dados e um bom Rock n’ Roll.  
-📊 Explorando o universo da análise de dados e criando dashboards com propósito.  
-🤖 Estudando Power BI, Python e fundamentos de Machine Learning.  
+🎸 Analista de Dados em formação, movido por curiosidade, autonomia, dados e um bom Rock n’ Roll.  
+📊 Transformo dados em dashboards claros, visuais e orientados à tomada de decisão.  
+🚀 Em transição sólida para a área de Dados, com foco em Power BI e análise prática de negócios.
 
 ---
 
 ## 🚀 O que eu faço hoje
-- Crio dashboards e visualizações de dados com Power BI  
-- Analiso dados para extrair insights reais  
-- Participo de projetos pessoais para evoluir minhas habilidades  
-- Busco minha transição sólida para a área de Dados
+- Desenvolvimento de dashboards interativos com **Power BI**
+- Análise de dados para gerar **insights acionáveis**
+- Criação de projetos práticos para resolver problemas reais
+- Construção de portfólio focado em **negócio e storytelling com dados**
 
 ---
 
-## 🎯 Projetos em andamento
-- Dashboard BLACKFRIDAY:  analise e perfil do cliente 
-- Dashboard de Vendas  
-- Dashboard de Marketing 
-- Análises com dataset do Spotify (Kaggle)  
-- Dataset próprio de produção (em construção)
+## 📂 Projetos em destaque
+- 📊 **Black Friday** — Análise de perfil do cliente e comportamento de compra  
+- 📈 **Performance de Vendas** — Acompanhamento de resultados e indicadores comerciais  
+- 📣 **Marketing Analytics** — Análise de campanhas e canais  
+- 👥 **Folha de Pagamento & RH** — Custos, headcount e remuneração  
+- 🎧 **Spotify Analytics (Kaggle)** — Tendências musicais, popularidade e regiões  
+- 🏭 **Dataset próprio de Produção** — (em construção)
 
-> Em breve, todos aqui no GitHub.
+👉 Todos os projetos estão disponíveis aqui no GitHub.
 
 ---
 
-## ⚙️ Tecnologias que estou estudando
-- **Power BI**  
-- **Python**  
-- **Pandas / NumPy**  
-- **SQL**  
-- **Git & GitHub**  
+## ⚙️ Tecnologias e Ferramentas
+- **Power BI** (DAX, modelagem, visualização)
+- **Python** (básico)
+- **Pandas / NumPy**
+- **SQL**
+- **Git & GitHub**
+- **Excel / Power Query**
 
 ---
 
 ## 📫 Contato
-- **LinkedIn:** https://www.linkedin.com/in/marcosinada/  
-- **E-mail:** marcos.inada23@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/marcosinada/  
+- 📧 E-mail: marcos.inada23@gmail.com  
 
----
-
-*"Dados contam histórias. Eu só ajudo elas a ficarem mais claras."*  
-
+> *“Dados contam histórias. Eu só ajudo elas a ficarem mais claras.”*
